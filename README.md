@@ -10,7 +10,8 @@ Data Analysis | Data Visualization | Project Management
 <b>Tools:</b> <br>
 <img src = "https://github.com/mzsprojects/logos/blob/main/Jupyter.png" alt = "Jupyter Notebook" height = 50px> 
 <img src = "https://github.com/mzsprojects/logos/blob/main/Python.png" alt = "Python" height = 50px>
-<img src = "https://github.com/mzsprojects/logos/blob/main/PowerBi.png" alt = "Power Bi" height = 50px>
+<img src = "https://github.com/mzsprojects/logos/blob/main/tableau.png" alt = "Tableau" height = 50px>
+<img src = "https://github.com/mzsprojects/logos/blob/main/PowerBi.png" alt = "Power BI" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/Excel.png" alt = "Microsoft Excel" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/MySql.png" alt = "My SQL" height = 50px>
 
