@@ -1,11 +1,11 @@
-Hello! 👋 My name is <b>Sayyed Muaz Ahmed</b>. I am from MES Wadia College of Engineering pursuing BE in Computer Engineering. <br>
+Hello! 👋 My name is <b>Sayyed Muaz Ahmed</b>. I am currently pursuing BE in Computer Engineering at MES Wadia College of Engineering. <br>
 
-I have huge interest in Data Science 📊 and also enjoy doing ✐ᝰ UI design projects. <br>
+I have a great interest in Data Science 📊 and also enjoy doing ✐ᝰ UI design projects. <br>
 
-🌍 I love to join community that involves problem solving for a better and more sustainable world.<br>
+🌍 I would love to join community that involves problem solving for a better and more sustainable world.<br>
 
 <b>Skills:</b> <br>
-Data Analysis | Data Visualization | Project Management
+Data Wrangling | Data Analysis | Data Visualization | Project Management
 
 <b>Tools:</b> <br>
 <img src = "https://github.com/mzsprojects/logos/blob/main/Jupyter.png" alt = "Jupyter Notebook" height = 50px> 
@@ -15,7 +15,7 @@ Data Analysis | Data Visualization | Project Management
 <img src = "https://github.com/mzsprojects/logos/blob/main/Excel.png" alt = "Microsoft Excel" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/MySql.png" alt = "My SQL" height = 50px>
 
-🌱 I’m currently learning Data Visualization. <br>
+🌱 I’m currently learning about Predictive Analytics. <br>
 📫 How to reach me: <a href = "https://linkedin.com/in/muaazsayyed/">LinkedIn</a> <br>
 😄 Pronouns: He/Him <br>
 <!--- 
