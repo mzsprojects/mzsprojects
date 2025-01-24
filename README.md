@@ -11,7 +11,6 @@ Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visu
 <img src = "https://github.com/mzsprojects/logos/blob/main/Jupyter.png" alt = "Jupyter Notebook" height = 50px> 
 <img src = "https://github.com/mzsprojects/logos/blob/main/Python.png" alt = "Python" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/tableau.png" alt = "Tableau" height = 50px>
-<!--- <img src = "https://github.com/mzsprojects/logos/blob/main/PowerBi.png" alt = "Power BI" height = 50px> --->
 <img src = "https://github.com/mzsprojects/logos/blob/main/Excel.png" alt = "Microsoft Excel" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/MySql.png" alt = "My SQL" height = 50px>
 
@@ -27,3 +26,4 @@ Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visu
 mzsprojects/mzsprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--- <img src = "https://github.com/mzsprojects/logos/blob/main/PowerBi.png" alt = "Power BI" height = 50px> --->
