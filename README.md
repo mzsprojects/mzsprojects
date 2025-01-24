@@ -13,6 +13,7 @@ Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visu
 <img src = "https://github.com/mzsprojects/logos/blob/main/tableau.png" alt = "Tableau" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/Excel.png" alt = "Microsoft Excel" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/MySql.png" alt = "My SQL" height = 50px>
+<img src = "https://github.com/mzsprojects/logos/blob/main/postgreSQL.png" alt = "My SQL" height = 50px>
 
 🌱 I’m currently learning about Predictive Analytics. <br>
 📫 How to reach me: <a href = "https://linkedin.com/in/muaazsayyed/">LinkedIn</a> <br>
