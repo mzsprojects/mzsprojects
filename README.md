@@ -5,7 +5,7 @@ I have a strong interest in Data Science 📊 and also enjoy working on ✐ᝰ U
 🌍 I would love to join community that involves problem solving for a better and more sustainable world.<br>
 
 <b>Skills:</b> <br>
-Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visualization | Statistical Analysis | Relational Database Management | Project Management
+Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visualization | Statistical Analysis | Machine Learning | Relational Database Management | Project Management
 
 <b>Tools:</b> <br>
 <img src = "https://github.com/mzsprojects/logos/blob/main/Jupyter.png" alt = "Jupyter Notebook" height = 50px> 
@@ -15,7 +15,7 @@ Data Wrangling | Data Manipulation | Exploratory Data Analysis (EDA) | Data Visu
 <img src = "https://github.com/mzsprojects/logos/blob/main/MySql.png" alt = "My SQL" height = 50px>
 <img src = "https://github.com/mzsprojects/logos/blob/main/postgreSQL.png" alt = "My SQL" height = 50px>
 
-🌱 I’m currently learning about Predictive Analytics. <br>
+🌱 I’m currently learning Machine Learning Algorithms. <br>
 📫 How to reach me: <a href = "https://linkedin.com/in/muaazsayyed/">LinkedIn</a> <br>
 😄 Pronouns: He/Him <br>
 <!--- 
